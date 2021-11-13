@@ -1,0 +1,69 @@
+"Phrases"
+{
+	"Menu Title"
+	{
+		"en" "Server Rules"
+		"hu" "Szerver Szabályzat"
+		"pl" "Zasady serwera"
+	}
+	
+	"Rules"
+	{
+		"en" "Server Rules"
+		"hu" "Szerver Szabályzat"
+		"pl" "Zasady serwera"
+	}
+	
+	"Rules Accepted"
+	{
+		"en" "Rules Accepted. Have fun"
+		"hu" "Szabályzat Elfogadva. Jó játékot kivánunk"
+		"pl" "Zasady akceptowane. baw się dobrze)"
+	}
+	
+	"Accept"
+	{
+		"en" "Accept ( Save )"
+		"hu" "Elfogadás ( ne mutassa újra )"
+		"pl" "Zaakceptuj (nie pokazuj ponownie)"
+	}
+	
+	"Decline"
+	{
+		"en" "Decline"
+		"hu" "Elutasítás"
+		"hu" "Odrzucenie"
+	}
+	
+	"Kick Reason"
+	{
+		"en" "You've declined the server rules"
+		"hu" "Nem fogadtad el a szerverszabályzatot"
+		"pl" "Nie zaakceptowałeś zasad serwera"
+	}
+	
+	"Menu sent"
+	{
+		"#format" 	"{1:s}"
+		"en" "Rules menu sent to {1:s}."
+		"hu" "Szabályzat menü megjelenitve {1:s} játékosnak."
+		"pl" "Menu reguł wysłane do {1:s}"
+	}
+	
+	"Player Kick Alert"
+	{
+		"#format" 	"{1:s}"
+		"en" "{yellow}Player {default}({red}{1:s}{default}){yellow} dropped forom the server for not accepting the rules!"
+		"hu" "{yellow}Játékos {default}({red}{1:s}{default}){yellow} kirugásra került mivel nem fogadta el a szabályzatot!"
+		"pl" "{yellow}Gracz {default}({red}{1:s}{default}){yellow} spadła z serwera za niezaakceptowanie regulaminu!"
+	}
+	
+	"Accept Rules Reminder"
+	{
+		"en" "You have to accept the {red}rules{default}. Type {green}!rules{default} if you dont see the menu."
+		"hu" "El kell fogadnod a {red}szabályzatot{default}. ird be, hogy {green}!rules{default} ha nem látod a menüt!"
+		"pl" "Musisz {red}zaakceptować{default} zasady. Wpisz {green}!rules{default}, jeśli nie widzisz menu."
+	}
+	
+	
+}
